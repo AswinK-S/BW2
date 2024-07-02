@@ -1,0 +1,2 @@
+hi this is to test the readFileSync module
+ this is the new contet appended
